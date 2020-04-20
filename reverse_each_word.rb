@@ -5,5 +5,5 @@ def reverse_each_word(a)
  
     a.collect {|element| element.reverse!}
 
-  a = a.join(" ")
+ 
 end
